@@ -1,0 +1,18 @@
+.bg-img1 {
+  display: block;
+  background-color: #000;
+  background-size: cover;
+  background-image: url("../picture/bg-img1.jpg");
+}
+.bg-img2 {
+  display: block;
+  background-color: #000;
+  background-size: cover;
+  background-image: url("../picture/bg-img2.jpg");
+}
+.bg-img3 {
+  display: block;
+  background-color: #000;
+  background-size: cover;
+  background-image: url("../picture/bg-img3.jpg");
+}
